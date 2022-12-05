@@ -15,4 +15,8 @@ Project Overview:<br>
       <li>Creating model, adding layers and training the model.</li>
       <li>Model evaluation.</li>
     </ul></li>
+    <br>
+
+![image](https://user-images.githubusercontent.com/72664379/205631840-4cd8264a-ecca-4c5d-b958-5f264b3f553c.png)
+<br>The above figure shows the model description of the sequential model created.<br>
  
