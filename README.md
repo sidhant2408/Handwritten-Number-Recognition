@@ -27,8 +27,8 @@ Project Overview:<br>
   ![image](https://user-images.githubusercontent.com/72664379/205634529-9d6bb620-8366-4044-8613-51f4c64874ae.png)
 <br>The above plot shows the training and validation LOSS vs no. of epochs
   
-  <h4>Accuracy achieved   : 97.69 %</h4>
-  <h4>Loss                : 8.23 %</h4>
+  <h4>Accuracy achieved   : <b>~98</b>%</h4>
+  <h4>Loss                : <b>~8</b>%</h4>
  
   <h3>Conclusions:</h3>
   <ul>
